@@ -1,0 +1,31 @@
+commit 6acf17ca082a6187e4ca74c6bda03d9b84764450
+Author: ecruzg10 <ecruzg10@gmail.com>
+Date:   Fri Mar 10 09:55:06 2023 -0600
+
+    Agregamos el cargo de la persona
+    
+    La persona es Emmanuel
+
+commit a60e8dff8cce90f81ee7b5c15056d1fe3c53cd2e
+Author: ecruzg10 <ecruzg10@gmail.com>
+Date:   Fri Mar 10 09:49:56 2023 -0600
+
+    Cambios al archivo de historia agregando estatura
+
+commit d694836f068c9d7544eada08ffe9fb913db2bc35
+Author: ecruzg10 <ecruzg10@gmail.com>
+Date:   Fri Mar 10 09:45:12 2023 -0600
+
+    Cambios al archivo de historia para reflejar la edad correcta
+
+commit 089ca0c4e0e3fc7b84a95d04a182b0eefaabbb21
+Author: ecruzg10 <ecruzg10@gmail.com>
+Date:   Fri Mar 10 09:43:50 2023 -0600
+
+    Cambios al archivo de historia inicial
+
+commit d65b403a6fe3ef79cdb6619faa9fe0739b08af28
+Author: ecruzg10 <ecruzg10@gmail.com>
+Date:   Fri Mar 10 09:38:31 2023 -0600
+
+    Este es el primer commit de este archivo
